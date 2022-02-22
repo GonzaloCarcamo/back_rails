@@ -3,7 +3,7 @@ class ProjectSerializer
 
   attributes :title,
     :desc,
-    :img
+    :img,
     :link
 
 
