@@ -21,7 +21,7 @@ level_5 = Difficulty.create!(level: 5)
 
 project = Project.create!(
     title: 'Shopping Cart',
-    desc: 'Javascript project',
+    desc: 'Prototipo que simula un carro de compras.',
     img: 'https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png',
     link: 'https://dreamy-carson-216ada.netlify.app/',
     category: category_javascript,
@@ -30,7 +30,7 @@ project = Project.create!(
 
 project = Project.create!(
     title: 'Email Simulator',
-    desc: 'Javascript project',
+    desc: 'Prototipo que simula el envío de un correo electrónico.',
     img: 'https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png',
     link: 'https://romantic-goldberg-6a7c55.netlify.app/',
     category: category_javascript,
@@ -39,7 +39,7 @@ project = Project.create!(
 
 project = Project.create!(
     title: 'Cars Finder',
-    desc: 'Javascript project',
+    desc: 'Prototipo que simula un buscador (filtro) de automóviles',
     img: 'https://res.cloudinary.com/practicaldev/image/fetch/s--uqRmMHM---/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/2re7bewq15mpw0ghmmnd.png',
     link: 'https://keen-ramanujan-9ae337.netlify.app/',
     category: category_javascript,
