@@ -4,6 +4,7 @@ class ProjectSerializer
   attributes :title,
     :desc,
     :img
+    :link
 
 
     attribute :category do |object|
